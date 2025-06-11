@@ -1,1 +1,1 @@
-# Cadastro Ninjas
+# CadastroDeNinjas
